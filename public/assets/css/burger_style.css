@@ -15,4 +15,16 @@ h1 {
     font-size: 52px;
     text-align: center;
     color: blue;
+
+}
+
+.btn-success {
+    width: 120px;
+    font-size: 30px;
+}
+
+.btn-default {
+    background-color: red;
+    color: white;
+
 }
